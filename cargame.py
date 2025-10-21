@@ -24,7 +24,7 @@ class Game:
         self.car_lane = "R"
         self.car2_lane = "L"
 
-        self.GRASS_COLOR = (60, 220, 0)
+        self.GRASS_COLOR = (500, 0, 0)
         self.DARK_ROAD_COLOR = (50, 50, 50)
         self.YELLOW_LINE_COLOR = (255, 240, 60)
         self.WHITE_LINE_COLOR = (255, 255, 255)
